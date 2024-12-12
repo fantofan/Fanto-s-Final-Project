@@ -1,6 +1,10 @@
 # Research Question: Why Affordable Housing is not "Affordable" at all?
 ## Abstract
-Ensuring that affordable housing meets its intended purpose is essential to alleviating the New York City’s housing crisis. Yer with numerous policies and incentives aiming at increasing affordable housing, a significant portion of the population do not have access to homeownership. Programs like 421a and 485x are designed to stimulate affordable housing development in New York City, yet affordability issue remains.  This project explores the disconnect between the concept of affordable housing and its practical outcomes focusing on the potential mismatch in perceptions between the public, the authority and the media. Specifically, why does affordable housing fail to be truly “affordable” for many intended beneficiaries? Understanding the reasons behind will provide actionable insights for housing policy improvement.
+Affordable housing is a key instrument in addressing New York City's housing crisis. Despite numerous policies and incentives, such as programs 421a and 485x, a large portion of NYC residents are still unable to achieve homeownership or secure affordable rentals. This project explores:
+* The perception gap between the public, authorities, and media regarding affordable housing.
+* The structural flaws in policies that fail to address the economic realities of the city's population.
+
+Understanding these issues will provide actionable insights for improving housing policies and ensuring affordable housing achieves its intended purpose.
 
 > [!NOTE]
 > Read the full project [here](https://github.com/fantofan/Fanto-s-Final-Project/blob/main/Final_Project_Code.ipynb).
